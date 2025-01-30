@@ -1,0 +1,19 @@
+#divContainer {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.theDivs {
+    width: 500px; /* Set a width for your divs */
+    height: 500px; /* Set a height for your divs */
+    margin: 50px;
+    border: 1px solid black;
+    border-radius: 100px;
+}
+
+p {
+    text-align: center;
+    
+}
